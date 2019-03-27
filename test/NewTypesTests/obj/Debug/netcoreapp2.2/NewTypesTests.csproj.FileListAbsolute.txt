@@ -1,0 +1,17 @@
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.deps.json
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.runtimeconfig.json
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.runtimeconfig.dev.json
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.dll
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypesTests.pdb
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypes.dll
+/home/ubuntu/NewTypes/test/NewTypesTests/bin/Debug/netcoreapp2.2/NewTypes.pdb
+/home/ubuntu/NewTypes/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.csprojAssemblyReference.cache
+/home/ubuntu/NewTypes/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.csproj.CoreCompileInputs.cache
+/home/ubuntu/NewTypes/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.AssemblyInfoInputs.cache
+/home/ubuntu/NewTypes/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.AssemblyInfo.cs
+/home/ubuntu/NewTypes/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.csproj.CopyComplete
+/home/ubuntu/NewTypes/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.dll
+/home/ubuntu/NewTypes/test/NewTypesTests/obj/Debug/netcoreapp2.2/NewTypesTests.pdb

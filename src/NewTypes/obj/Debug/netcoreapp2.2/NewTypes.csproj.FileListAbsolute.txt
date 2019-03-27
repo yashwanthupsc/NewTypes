@@ -1,0 +1,11 @@
+/home/ubuntu/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.deps.json
+/home/ubuntu/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.runtimeconfig.json
+/home/ubuntu/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.runtimeconfig.dev.json
+/home/ubuntu/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.dll
+/home/ubuntu/NewTypes/src/NewTypes/bin/Debug/netcoreapp2.2/NewTypes.pdb
+/home/ubuntu/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.csprojAssemblyReference.cache
+/home/ubuntu/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.csproj.CoreCompileInputs.cache
+/home/ubuntu/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.AssemblyInfoInputs.cache
+/home/ubuntu/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.AssemblyInfo.cs
+/home/ubuntu/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.dll
+/home/ubuntu/NewTypes/src/NewTypes/obj/Debug/netcoreapp2.2/NewTypes.pdb
